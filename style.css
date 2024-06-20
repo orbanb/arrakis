@@ -1,0 +1,34 @@
+h1 {
+	color:#db8c46;
+}
+
+h4 {
+	color:#db8c46;
+}
+
+a:link {
+	color:#db8c46;
+}
+
+a:hover {
+	color:orange;
+}
+
+#annotlist {
+  width: 300px;
+  background: rgb(40,40,40);
+}
+body {
+  background: lightgray;
+}
+
+#cesiumContainer {
+  background: rgb(40,40,40);
+}
+#header {
+  background: rgb(40,40,40);
+}
+
+.cesium-infoBox {
+  max-width: 550px;
+}
